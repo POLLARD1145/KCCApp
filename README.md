@@ -23,7 +23,7 @@ This project is a student-lecturer interaction system developed using React Nati
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/student-lecturer-system.git
+   git clone https://github.com/POLLARD1145/KCCApp.git
    ```
 2. Navigate to the project directory:
    ```bash
