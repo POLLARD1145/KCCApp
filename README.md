@@ -10,6 +10,10 @@ This project is a student-lecturer interaction system developed using React Nati
 - Instant feedback from students
 - Push notifications for important updates
 
+## Insipiration
+![Home Screen](https://github.com/user-attachments/assets/385bd548-2838-4cbb-b5e1-73c83ae18d7d) ![Student Dashboard](https://github.com/user-attachments/assets/754dbc92-7d7d-4f6a-9af7-c8287072480f)
+
+
 ## Technologies Used
 - React Native
 - Expo
